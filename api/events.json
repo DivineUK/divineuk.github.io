@@ -1,0 +1,28 @@
+{
+"events":[
+{
+  "id":1
+  "title":"Online Retreat"
+  "start-date": "18-SEP-2020"
+  "end-date" : "20-SEP-2020"
+  "Description": "Online English retreat from 6:00 PM to 10:00 PM Led by Fr. Joseph Edattu"
+  "img-url":"https://divineuk.org/wp-content/uploads/2019/05/D7bxOU-X4AA4_wi.jpg"
+}
+{
+  "id":2
+  "title":"Online Retreat"
+  "start-date": "18-OCT-2020"
+  "end-date" : "20-OCT-2020"
+  "Description": "Online English retreat from 6:00 PM to 10:00 PM Led by Fr. Joseph Edattu"
+  "img-url":"https://divineuk.org/wp-content/uploads/2019/05/D7bxOU-X4AA4_wi.jpg"
+}
+{
+  "id":3
+  "title":"Online Retreat"
+  "start-date": "18-NOV-2020"
+  "end-date" : "20-NOV-2020"
+  "Description": "Online English retreat from 6:00 PM to 10:00 PM Led by Fr. Joseph Edattu"
+  "img-url":"https://divineuk.org/wp-content/uploads/2019/05/D7bxOU-X4AA4_wi.jpg"
+}
+]
+}
