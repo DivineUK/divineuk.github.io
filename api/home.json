@@ -1,0 +1,38 @@
+{
+  "page": "home",
+  "content": [
+    {
+      "id": "",
+      "type": "title",
+      "props": {
+        "text": "Divine UK",
+        "size": "h1",
+        "align": "center",
+        "color": "primary"
+      }
+    },
+    {
+      "id": "",
+      "type": "image",
+      "props": {
+        "src": "url",
+        "aspect_ratio": "1.3",
+        "link": "divineuk://",
+        "alt_text": ""
+      }
+    },
+    {
+      "id": "",
+      "type": "carousel",
+      "props": {
+        "aspect_ratio": "1.3",
+        "images": [
+          {
+            "src": "url",
+            "alt_text": ""
+          }
+        ]
+      }
+    }
+  ]
+}
