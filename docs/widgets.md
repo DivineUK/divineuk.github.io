@@ -2,6 +2,7 @@
 
 ## Title
 
+```json
     {
       "id": "",
       "type": "title",
@@ -12,6 +13,7 @@
         "color": "primary"
       }
     }
+```
 #### Properties
 
  - text
