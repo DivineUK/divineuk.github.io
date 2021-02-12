@@ -1,5 +1,57 @@
 # Widgets
 
+# Sample Config
+
+```json
+[
+  {
+    "id": "",
+    "type": "title",
+    "props": {
+      "title": "Divine UK",
+      "subTitle": "Everyday at 6pm GMT",
+      "size": "h1"
+    }
+  },
+  {
+    "id": "",
+    "type": "event",
+    "props": {
+      "title": "Redefining Love in our Culture",
+      "link": "Xp0DAETI7b8",
+      "type": "youtube",
+      "time": "2021-02-13T11:00:00+00:00"
+    }
+  },
+  {
+    "id": "",
+    "type": "youtubeLink",
+    "props": {
+      "title": "Redefining Love in our Culture",
+      "id": "Xp0DAETI7b8"
+    }
+  },
+  {
+    "id": "",
+    "type": "imageLink",
+    "props": {
+      "title": "Weekly Intercession",
+      "link": "https://us02web.zoom.us/j/84217167077?pwd=aWkyR0JLWXkyN2ZTVkRoWVo0SlJwQT09",
+      "imageURL": "https://img.youtube.com/vi/Ih-Hm2UBOdI/mqdefault.jpg"
+    }
+  },
+  {
+    "id": "",
+    "type": "textLink",
+    "props": {
+      "title": "Newsletter",
+      "link": "https://divineuk.org/newsletter",
+      "size": "h1"
+    }
+  }
+]
+```
+
 ## Title
 
 ```json
