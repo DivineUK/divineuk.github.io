@@ -50,6 +50,36 @@
         "link": "divineuk://", 
         "alt_text": ""
       }
+    },
+	{
+      "type": "title", 
+      "id": "", 
+      "props": {
+        "color": "primary", 
+        "text": "Divine UK", 
+        "align": "center", 
+        "size": "h1"
+      }
+    }, 
+	 {
+      "type": "image", 
+      "id": "", 
+      "props": {
+        "aspect_ratio": 1.3, 
+        "src": "https://divineuk.github.io/static/events/event2.jpeg", 
+        "link": "divineuk://", 
+        "alt_text": ""
+      }
+    },
+	 {
+      "type": "image", 
+      "id": "", 
+      "props": {
+        "aspect_ratio": 1.3, 
+        "src": "https://divineuk.github.io/static/events/event2.jpeg", 
+        "link": "divineuk://", 
+        "alt_text": ""
+      }
     }
   ], 
   "page": "home"
