@@ -5,7 +5,7 @@
     "id": "",
     "type": "title",
     "props": {
-      "title": "Divine UK",
+      "title": "Daily Live",
       "subTitle": "Everyday at 6pm GMT",
       "size": "h1"
     }
@@ -20,12 +20,30 @@
       "time": "2021-02-13T11:00:00+00:00"
     }
   },
+    {
+    "id": "",
+    "type": "title",
+    "props": {
+      "title": "Under My Roof",
+      "subTitle": "Every Sturday at 11am GMT",
+      "size": "h1"
+    }
+  },
   {
     "id": "",
     "type": "youtubeLink",
     "props": {
       "title": "Redefining Love in our Culture",
       "id": "Xp0DAETI7b8"
+    }
+  },
+    {
+    "id": "",
+    "type": "title",
+    "props": {
+      "title": "Weekly Intercession",
+      "subTitle": "Every Wednesday at 12pm GMT",
+      "size": "h1"
     }
   },
   {
