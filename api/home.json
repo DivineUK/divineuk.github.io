@@ -1,37 +1,49 @@
 {
   "page": "home",
-  "content": [
+  "items": [
     {
       "id": "",
       "type": "title",
       "props": {
-        "text": "Divine UK",
-        "size": "h1",
-        "align": "center",
-        "color": "primary"
+        "title": "Divine UK",
+        "subTitle": "Everyday at 6pm GMT",
+        "size": "h1"
       }
     },
     {
       "id": "",
-      "type": "image",
+      "type": "event",
       "props": {
-        "src": "url",
-        "aspect_ratio": "1.3",
-        "link": "divineuk://",
-        "alt_text": ""
+        "title": "Redefining Love in our Culture",
+        "link": "Xp0DAETI7b8",
+        "type": "youtube",
+        "time": "2021-02-13T11:00:00+00:00"
       }
     },
     {
       "id": "",
-      "type": "carousel",
+      "type": "youtubeLink",
       "props": {
-        "aspect_ratio": "1.3",
-        "images": [
-          {
-            "src": "url",
-            "alt_text": ""
-          }
-        ]
+        "title": "Redefining Love in our Culture",
+        "id": "Xp0DAETI7b8"
+      }
+    },
+    {
+      "id": "",
+      "type": "imageLink",
+      "props": {
+        "title": "Weekly Intercession",
+        "link": "https://us02web.zoom.us/j/84217167077?pwd=aWkyR0JLWXkyN2ZTVkRoWVo0SlJwQT09",
+        "imageURL": "https://img.youtube.com/vi/Ih-Hm2UBOdI/mqdefault.jpg"
+      }
+    },
+    {
+      "id": "",
+      "type": "textLink",
+      "props": {
+        "title": "Newsletter",
+        "link": "https://divineuk.org/newsletter",
+        "size": "h1"
       }
     }
   ]
