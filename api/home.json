@@ -14,7 +14,7 @@
       "id": "",
       "type": "event",
       "props": {
-        "title": "Redefining Love in our Culture",
+        "title": "YD9NfX2Rylg",
         "link": "Xp0DAETI7b8",
         "type": "youtube",
         "time": "2021-02-13T11:00:00+00:00"
@@ -22,10 +22,21 @@
     },
     {
       "id": "",
-      "type": "youtubeLink",
+      "type": "title",
+      "props": {
+        "title": "Under my Roof",
+        "subTitle": "Every Saturday at 11am GMT",
+        "size": "h1"
+      }
+    },
+    {
+      "id": "",
+      "type": "event",
       "props": {
         "title": "Redefining Love in our Culture",
-        "id": "Xp0DAETI7b8"
+        "link": "Xp0DAETI7b8",
+        "type": "youtube",
+        "time": "2021-02-13T11:00:00+00:00"
       }
     },
     {
