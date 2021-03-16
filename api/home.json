@@ -5,8 +5,7 @@
       "id": "",
       "type": "title",
       "props": {
-        "title": "Daily Live",
-        "subTitle": "Everyday at 6pm GMT",
+        "title": "Daily Live Stream",
         "size": "h1"
       }
     },
@@ -14,8 +13,8 @@
       "id": "",
       "type": "event",
       "props": {
-        "title": "Daily Live Stream",
-        "link": "YD9NfX2Rylg",
+        "title": "40 days Online Lenten Retreat",
+        "link": "XRuqA6b1IVM",
         "type": "youtube",
         "time": "2021-02-13T11:00:00+00:00"
       }
@@ -33,10 +32,48 @@
       "id": "",
       "type": "event",
       "props": {
-        "title": "Redefining Love in our Culture",
-        "link": "Xp0DAETI7b8",
+        "title": "Pathway to a deeper friendship with Christ",
+        "link": "jVrV75IvwZs",
         "type": "youtube",
         "time": "2021-02-13T11:00:00+00:00"
+      }
+    },
+    {
+      "id": "",
+      "type": "title",
+      "props": {
+        "title": "Bambino",
+        "subTitle": "Every Saturday",
+        "size": "h1"
+      }
+    },
+    {
+      "id": "",
+      "type": "event",
+      "props": {
+        "title": "Bambino S3 E8 - Be Courageous",
+        "link": "AMBC_vYWobM",
+        "type": "youtube",
+        "time": "2021-02-13T11:00:00+00:00"
+      }
+    },
+    {
+      "id": "",
+      "type": "title",
+      "props": {
+        "title": "Weekly Intercession",
+        "subTitle": "Every Wednesday at 12am GMT",
+        "size": "h1"
+      }
+    },
+    {
+      "id": "",
+      "type": "event",
+      "props": {
+        "title": "Weekly Intercession",
+        "link": "https://us02web.zoom.us/j/84217167077?pwd=aWkyR0JLWXkyN2ZTVkRoWVo0SlJwQT09",
+        "imageURL": "https://img.youtube.com/vi/Ih-Hm2UBOdI/mqdefault.jpg",
+        "type": "web"
       }
     },
     {
@@ -46,15 +83,6 @@
         "title": "Weekly Intercession",
         "link": "https://us02web.zoom.us/j/84217167077?pwd=aWkyR0JLWXkyN2ZTVkRoWVo0SlJwQT09",
         "imageURL": "https://img.youtube.com/vi/Ih-Hm2UBOdI/mqdefault.jpg"
-      }
-    },
-    {
-      "id": "",
-      "type": "textLink",
-      "props": {
-        "title": "Newsletter",
-        "link": "https://divineuk.org/newsletter",
-        "size": "h1"
       }
     }
   ]
