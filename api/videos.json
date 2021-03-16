@@ -1,0 +1,58 @@
+{
+  "page": "home",
+  "items": [
+    {
+      "id": "",
+      "type": "title",
+      "props": {
+        "title": "Latest Videos",
+        "size": "h1"
+      }
+    },
+    {
+      "id": "",
+      "type": "videoLink",
+      "props": {
+        "title": "Do you know that there is a hidden world around you? - Fr Joseph Edattu VC",
+        "link": "KF4GdjbGQGQ",
+        "type": "youtube"
+      }
+    },
+    {
+      "id": "",
+      "type": "videoLink",
+      "props": {
+        "title": "Dewfall 27 - “Obey everything that I have commanded you",
+        "link": "sepY-BoXVNQ",
+        "type": "youtube"
+      }
+    },
+    {
+      "id": "",
+      "type": "videoLink",
+      "props": {
+        "title": "Are Catholics Idol Worshippers? - Fr Joseph Edattu VC",
+        "link": "PHPOoRCRK5g",
+        "type": "youtube"
+      }
+    },
+    {
+      "id": "",
+      "type": "videoLink",
+      "props": {
+        "title": "Who are the brothers and sisters of Jesus? - Fr Joseph Edattu VC",
+        "link": "1H9knYeRdsQ",
+        "type": "youtube"
+      }
+    },
+    {
+      "id": "",
+      "type": "videoLink",
+      "props": {
+        "title": "Exorcism of a possessed explained - Fr Joseph Edattu VC",
+        "link": "NqvLVMXlCFQ",
+        "type": "youtube"
+      }
+    }
+  ]
+}
