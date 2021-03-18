@@ -1,5 +1,5 @@
 {
-  "page": "home",
+  "page": "videos",
   "items": [
     {
       "id": "",
@@ -7,6 +7,15 @@
       "props": {
         "title": "Latest Videos",
         "size": "h1"
+      }
+    },
+    {
+      "id": "",
+      "type": "videoLink",
+      "props": {
+        "title": "Your sin will find you out one day! - Fr Joseph Edattu VC",
+        "link": "_6RsjA9Ux0o",
+        "type": "youtube"
       }
     },
     {
