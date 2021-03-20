@@ -50,7 +50,7 @@
       "id": "",
       "type": "event",
       "props": {
-        "title": "Q&A with Fr. Joseph Edattu VC",
+        "title": "Q&A with Fr. Jodeph Edattu VC",
         "link": "tqtwpZj2CLI",
         "type": "youtube",
         "time": "2021-02-13T11:00:00+00:00"
@@ -90,17 +90,26 @@
       "props": {
         "title": "Weekly Intercession",
         "link": "https://us02web.zoom.us/j/84217167077?pwd=aWkyR0JLWXkyN2ZTVkRoWVo0SlJwQT09",
-        "imageURL": "https://img.youtube.com/vi/Ih-Hm2UBOdI/mqdefault.jpg",
+        "imageURL": "https://cdn.statically.io/img/divineuk.github.io/images/weekly_intercession.jpg",
         "type": "web"
+      }
+    },
+        {
+      "id": "",
+      "type": "title",
+      "props": {
+        "title": "24hr Prayer Tower",
+        "size": "h1"
       }
     },
     {
       "id": "",
-      "type": "imageLink",
+      "type": "event",
       "props": {
-        "title": "Weekly Intercession",
-        "link": "https://us02web.zoom.us/j/84217167077?pwd=aWkyR0JLWXkyN2ZTVkRoWVo0SlJwQT09",
-        "imageURL": "https://img.youtube.com/vi/Ih-Hm2UBOdI/mqdefault.jpg"
+        "title": "24hr Prayer Tower",
+        "link": "https://us02web.zoom.us/j/89067203785?pwd=aG5ubVhUdWZEcFlKaXVhVmhKMUpsQT09",
+        "imageURL": "https://cdn.statically.io/img/divineuk.github.io/images/prayer_tower.jpg",
+        "type": "web"
       }
     }
   ]
