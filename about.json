@@ -2,6 +2,13 @@
   "items": [
     {
       "props": {
+        "title": "About",
+        "link": "https://divineuk.github.io/about/"
+      },
+      "type": "link"
+    },
+    {
+      "props": {
         "title": "Meet our Priests",
         "link": "https://www.divineuk.org/meet-our-priests/?utm_source=iphone-app"
       },
