@@ -2,6 +2,7 @@
   "items": [
     {
       "props": {
+        "size": "subtitle",
         "title": "About",
         "link": "https://divineuk.github.io/about/"
       },
@@ -9,6 +10,7 @@
     },
     {
       "props": {
+        "size": "subtitle",
         "title": "Meet our Priests",
         "link": "https://www.divineuk.org/meet-our-priests/?utm_source=iphone-app"
       },
@@ -16,6 +18,7 @@
     },
     {
       "props": {
+        "size": "subtitle",
         "title": "History",
         "link": "https://www.divineuk.org/charisms/"
       },
@@ -23,6 +26,7 @@
     },
     {
       "props": {
+        "size": "subtitle",
         "title": "Divine Ramsgate",
         "link": "https://www.divineuk.org/ramsgate/"
       },
@@ -30,6 +34,7 @@
     },
     {
       "props": {
+        "size": "subtitle",
         "title": "Vincentian Congregation",
         "link": "https://www.divineuk.org/our-mission/"
       },
@@ -37,6 +42,7 @@
     },
     {
       "props": {
+        "size": "subtitle",
         "title": "Vincentian Retreat Centres Around The World",
         "link": "https://www.divineuk.org/vincentian-retreat-centres-around-the-world/"
       },
@@ -44,6 +50,7 @@
     },
     {
       "props": {
+        "size": "subtitle",
         "title": "FAQs",
         "link": "https://www.divineuk.org/faq/"
       },
