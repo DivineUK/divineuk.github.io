@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "props": {
+        "title": "Meet our Priests",
+        "link": "https://www.divineuk.org/meet-our-priests/?utm_source=iphone-app"
+      },
+      "type": "link"
+    },
+    {
+      "props": {
+        "title": "History",
+        "link": "https://www.divineuk.org/charisms/"
+      },
+      "type": "link"
+    },
+    {
+      "props": {
+        "title": "Divine Ramsgate",
+        "link": "https://www.divineuk.org/ramsgate/"
+      },
+      "type": "link"
+    },
+    {
+      "props": {
+        "title": "Vincentian Congregation",
+        "link": "https://www.divineuk.org/our-mission/"
+      },
+      "type": "link"
+    },
+    {
+      "props": {
+        "title": "Vincentian Retreat Centres Around The World",
+        "link": "https://www.divineuk.org/vincentian-retreat-centres-around-the-world/"
+      },
+      "type": "link"
+    },
+    {
+      "props": {
+        "title": "FAQs",
+        "link": "https://www.divineuk.org/faq/"
+      },
+      "type": "link"
+    }
+  ],
+  "page": "about"
+}
