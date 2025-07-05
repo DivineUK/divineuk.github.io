@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "props": {
+        "title": "Student's Prayer",
+        "link": "https://divineuk.github.io/prayers/students",
+        "size": "subtitle"
+      },
+      "type": "textLink"
+    }
+  ],
+  "page": "prayers"
+}
