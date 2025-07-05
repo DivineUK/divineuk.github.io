@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "props": {
+        "title": "Contact Us",
+        "link": "https://www.divineuk.org/contact-us/",
+        "size": "subtitle"
+      },
+      "type": "textLink"
+    },
+    {
+      "props": {
+        "title": "Send Testimonies",
+        "link": "https://www.divineuk.org/send-testimonies/",
+        "size": "subtitle"
+      },
+      "type": "textLink"
+    },
+    {
+      "props": {
+        "title": "Travel Details",
+        "link": "https://www.divineuk.org/travel-details/",
+        "size": "subtitle"
+      },
+      "type": "textLink"
+    },
+    {
+      "props": {
+        "title": "Ask Bible Doubts",
+        "link": "https://www.divineuk.org/ask-bible-doubts/",
+        "size": "subtitle"
+      },
+      "type": "textLink"
+    },
+    {
+      "props": {
+        "title": "Prayer Request",
+        "link": "https://www.divineuk.org/prayer-request/",
+        "size": "subtitle"
+      },
+      "type": "textLink"
+    }
+  ],
+  "page": "contact"
+}
